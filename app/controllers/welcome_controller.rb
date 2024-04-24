@@ -1,4 +1,10 @@
 class WelcomeController < ApplicationController
-  def index
+  def bike
+  end
+
+  def gear
+  end
+
+  def services
   end
 end
